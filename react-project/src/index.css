@@ -1,5 +1,5 @@
 .to-do-list{
-    background-color: hsla(0, 57%, 36%, 0.733);
+    background-color: purple;
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 100px;
@@ -37,6 +37,19 @@ button{
 .move-button:hover{
     background-color:rgb(89, 89, 124);
 }
+
+.edit-button{
+    background-color:blue;
+}
+
+.save-button{
+    background-color: rgba(28, 28, 136, 0.418);
+}
+
+.cancel-button{
+    background-color: rgba(28, 28, 136, 0.418);
+}
+
 input[type="text"]{
     font-size: 1.6rem;
     padding: 10px;
